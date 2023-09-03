@@ -1,0 +1,9 @@
+---
+name: "Quarkus Openapi K6 Generator"
+metadata:
+  built-with-quarkus-core: "3.3.1"
+  minimum-java-version: "11"
+  extension-dependencies:
+  - "io.quarkus:quarkus-arc"
+  - "io.quarkus:quarkus-core"
+artifact: "com.github.mcruzdev:quarkus-openapi-k6-generator::jar:1.0.0-SNAPSHOT"
